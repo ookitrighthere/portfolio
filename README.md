@@ -1,12 +1,12 @@
 # Portfolio
 
-## Contact
+## :email: Contact
   -이메일 : moveookz@gmail.com  
   -깃헙 : https://github.com/ookitrighthere  
 
 </br>
 
-## Project
+## :pencil2: Project
 ### 1. [boardserivce](https://github.com/ookitrighthere/Boot_boardservice)
 >회원제 게시판 (개인 프로젝트)  
 
